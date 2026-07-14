@@ -1,4 +1,4 @@
-# Desafio-fullstack-NucleoClover# 
+# Desafio-fullstack-NucleoClover
 
 Quer fazer parte da transformação do campo ~~escrevendo~~ codando o futuro do agronegócio?
 
